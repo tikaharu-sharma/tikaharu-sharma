@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a current Masters in Computer Science at the University of Florida. <br>I have 2 years of professional experience in the field of Software Engineering. <br>I am interested in learning about new technologies in Artificial Intelligence and Machine Learning, and ultimately building a career as an AI or Software Engineer. <br><br>My hobbies include playing and watching sports such as Soccer, Cricket, Tennis, etc. 
+I am a current Masters in Computer Science Student at the University of Florida. <br>I have 2 years of professional experience in the field of Software Engineering. <br>I am interested in learning about new technologies in Artificial Intelligence and Machine Learning, and ultimately building a career as an AI or Software Engineer. <br><br>My hobbies include playing and watching sports such as Soccer, Cricket, Tennis, etc. 
 
 
 ## 🌐 Socials:
